@@ -18,6 +18,6 @@ Q9: In the zoomed-out URL, the TileCol is 217 and the TileRow is 129.
 
 Q10: In the zoomed-in URL, the TileCol is 13883 and the TileRow is 8295.
 
-Q11: The values are different because they are tile indices that refer to different positions in the tile matrix.
+Q11: The values are different, because they are tile indices that refer to different positions in the tile matrix, at different zoom levels.
 
 Q12: There is a difference in the TileMatrix (9 vs 15). The number after EPSG:4326 is the number of "levels" the earth has been divided, or simply the zoom level. 
